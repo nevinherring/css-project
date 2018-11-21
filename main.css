@@ -1,0 +1,20 @@
+h1 {
+    border: 4px dotted red;
+}
+
+h2{
+    color: red;
+}
+
+h3{
+    margin: 20px;
+    background-color: lightblue;
+}
+
+div{
+    transition: width 2s;
+}
+
+p{
+    padding: 10px;
+}
